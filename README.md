@@ -1,8 +1,10 @@
-# Myntra_WFS
-Myntra's WeForShe Hackerramp Project (Technician)
 
+  # Myntra Re-Design
 
-Figma prototype: https://www.figma.com/proto/XhJnWC0D6YYdLelylZ7zZ8/Myntra-Re-Design?node-id=108-1324&t=t1durZiN3OQ2MnwP-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A88&starting-point-node-id=1221%3A549
+  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
-
-Here's our Figjam board that contains the problem statement and various flow charts : https://www.figma.com/board/dAgOgnDAMfOT9caR3JHI70/Myntra?node-id=0-1&t=dwzsMv8Mmj3parY2-1
+  To preview and run the project on your device:
+  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+  2) In the terminal, run `npm install`
+  3) Run `npm start` to view project in browser
+  
